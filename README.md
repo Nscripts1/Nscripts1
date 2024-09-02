@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nscripts1
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning c++
+- 📫 How to reach me discord simon_617
+- ⚡ Fun fact: i can code lua python c#
